@@ -12,6 +12,7 @@ brew "coreutils"
 brew "libtool"
 brew "asdf"
 brew "direnv"
+brew "doctl"
 brew "gh"
 brew "git"
 brew "git-interactive-rebase-tool"
@@ -28,10 +29,9 @@ brew "jq"
 brew "k9s"
 brew "mas"
 brew "node"
-brew "openconnect"
 brew "packer"
+brew "pipenv"
 brew "protobuf"
-brew "rabbitmq", restart_service: true
 brew "rbenv"
 brew "redis"
 brew "rpm"
@@ -44,22 +44,8 @@ brew "watch"
 brew "wget"
 brew "cantino/mcfly/mcfly"
 brew "ktr0731/evans/evans"
-brew "mongodb/brew/mongodb-community"
 cask "atom"
 cask "dozer"
 cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
-mas "Airmail", id: 918858936
-mas "Annotate", id: 918207447
-mas "CopyLess 2", id: 993841014
-mas "Keynote", id: 409183694
-mas "Magnet", id: 441258766
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Patterns", id: 429449079
-mas "Speedtest", id: 1153157709
-mas "StatusClock", id: 552792489
-mas "TimeUTC", id: 1293572792
-mas "ToothFairy", id: 1191449274
-mas "Xcode", id: 497799835
