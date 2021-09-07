@@ -1,5 +1,6 @@
 tap "armada/armada", "git@git.soma.salesforce.com:armada/homebrew-armada.git"
 tap "cantino/mcfly", "https://github.com/cantino/mcfly"
+tap "federico-terzi/espanso"
 tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/cask"
@@ -33,6 +34,7 @@ brew "k9s"
 brew "kubernetes-cli"
 brew "kubectx"
 brew "lastpass-cli"
+brew "lf"
 brew "mas"
 brew "node"
 brew "packer"
@@ -51,6 +53,7 @@ brew "watch"
 brew "wget"
 brew "armada/armada/armada"
 brew "cantino/mcfly/mcfly"
+brew "federico-terzi/espanso/espanso"
 brew "heroku/brew/heroku"
 brew "ktr0731/evans/evans"
 cask "atom"
@@ -58,3 +61,15 @@ cask "dozer"
 cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
+mas "Airmail", id: 918858936
+mas "Annotate", id: 918207447
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "Speedtest", id: 1153157709
+mas "StatusClock", id: 552792489
+mas "TimeUTC", id: 1293572792
+mas "ToothFairy", id: 1191449274
+mas "Xcode", id: 497799835
