@@ -9,6 +9,7 @@ tap "homebrew/core"
 tap "homebrew/services"
 tap "ktr0731/evans"
 tap "mongodb/brew"
+tap "schappim/ocr"
 brew "autoconf"
 brew "automake"
 brew "coreutils"
@@ -62,20 +63,8 @@ brew "cantino/mcfly/mcfly"
 brew "federico-terzi/espanso/espanso"
 brew "heroku/brew/heroku"
 brew "ktr0731/evans/evans"
+brew "schappim/ocr/ocr"
 cask "atom"
 cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
-mas "1Blocker", id: 1365531024
-mas "Annotate", id: 918207447
-mas "Keynote", id: 409183694
-mas "Magnet", id: 441258766
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Patterns", id: 429449079
-mas "Speedtest", id: 1153157709
-mas "StatusClock", id: 552792489
-mas "TimeUTC", id: 1293572792
-mas "ToothFairy", id: 1191449274
-mas "Xcode", id: 497799835
