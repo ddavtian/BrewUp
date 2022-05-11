@@ -38,8 +38,7 @@ brew "httpie"
 brew "hub"
 brew "jq"
 brew "k9s"
-brew "kubernetes-cli"
-brew "kubectx"
+brew "kubernetes-cli@1.22"
 brew "nghttp2"
 brew "lastpass-cli"
 brew "lf"
@@ -72,3 +71,15 @@ cask "atom"
 cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
+mas "Annotate", id: 918207447
+mas "DevUtilsAppStore", id: 1533756032
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "Speedtest", id: 1153157709
+mas "StatusClock", id: 552792489
+mas "TimeUTC", id: 1293572792
+mas "Xcode", id: 497799835
