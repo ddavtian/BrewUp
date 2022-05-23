@@ -23,6 +23,7 @@ brew "docker-compose", link: false
 brew "doctl"
 brew "dog"
 brew "exa"
+brew "fd"
 brew "fish"
 brew "gh"
 brew "git"
