@@ -49,7 +49,9 @@ brew "ossp-uuid"
 brew "packer"
 brew "peco"
 brew "pipenv"
+brew "pipx"
 brew "protobuf"
+brew "python-yq"
 brew "rbenv"
 brew "redis", restart_service: true
 brew "rpm"
@@ -72,6 +74,7 @@ cask "atom"
 cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
+cask "sfdx"
 mas "Annotate", id: 918207447
 mas "DevUtilsAppStore", id: 1533756032
 mas "Keynote", id: 409183694
