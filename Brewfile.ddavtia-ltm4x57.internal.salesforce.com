@@ -76,3 +76,15 @@ cask "mockoon"
 cask "monitorcontrol"
 cask "secretive"
 cask "sfdx"
+mas "Annotate", id: 918207447
+mas "DevUtilsAppStore", id: 1533756032
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "Speedtest", id: 1153157709
+mas "StatusClock", id: 552792489
+mas "TimeUTC", id: 1293572792
+mas "Xcode", id: 497799835
+mas "Xnip", id: 1221250572
