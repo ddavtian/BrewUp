@@ -23,7 +23,6 @@ brew "aws-iam-authenticator"
 brew "openldap"
 brew "ddcctl"
 brew "direnv"
-brew "docker-compose", link: false
 brew "doctl"
 brew "dog"
 brew "exa"
