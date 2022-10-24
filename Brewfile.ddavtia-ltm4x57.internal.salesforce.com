@@ -64,8 +64,8 @@ brew "rpm"
 brew "shtool"
 brew "stress-ng"
 brew "telnet"
-brew "terraform", link: false
-brew "tfenv"
+brew "terraform"
+brew "tfenv", link: false
 brew "the_silver_searcher"
 brew "tldr"
 brew "tree"
