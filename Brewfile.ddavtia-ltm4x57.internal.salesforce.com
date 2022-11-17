@@ -1,3 +1,4 @@
+tap "1password/tap"
 tap "armada/armada", "git@git.soma.salesforce.com:armada/homebrew-armada.git"
 tap "buildpacks/tap"
 tap "cantino/mcfly", "https://github.com/cantino/mcfly"
@@ -72,6 +73,7 @@ brew "tree"
 brew "watch"
 brew "wget"
 brew "wimlib"
+brew "zsh-completions"
 brew "armada/armada/armada"
 brew "buildpacks/tap/pack"
 brew "cantino/mcfly/mcfly"
@@ -81,6 +83,7 @@ brew "ktr0731/evans/evans"
 brew "null-dev/firefox-profile-switcher/firefox-profile-switcher-connector"
 brew "schappim/ocr/ocr"
 brew "snyk/tap/snyk"
+cask "1password-cli"
 cask "atom"
 cask "font-hack-nerd-font"
 cask "mockoon"
@@ -88,3 +91,13 @@ cask "monitorcontrol"
 cask "oracle-jdk"
 cask "secretive"
 cask "sfdx"
+mas "Annotate", id: 918207447
+mas "DevUtilsAppStore", id: 1533756032
+mas "Keynote", id: 409183694
+mas "LanScan", id: 472226235
+mas "Magnet", id: 441258766
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "Speedtest", id: 1153157709
