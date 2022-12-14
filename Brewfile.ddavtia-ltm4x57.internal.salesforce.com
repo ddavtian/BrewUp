@@ -66,8 +66,8 @@ brew "redis", restart_service: true
 brew "rpm"
 brew "shtool"
 brew "telnet"
-brew "terraform"
-brew "tfenv", link: false
+brew "terraform", link: false
+brew "tfenv"
 brew "the_silver_searcher"
 brew "tldr"
 brew "tree"
