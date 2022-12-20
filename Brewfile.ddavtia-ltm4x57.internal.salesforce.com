@@ -97,7 +97,6 @@ cask "sfdx"
 mas "Annotate", id: 918207447
 mas "DevUtilsAppStore", id: 1533756032
 mas "Dropover", id: 1355679052
-mas "Flip Clock", id: 1553591814
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
