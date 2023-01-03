@@ -95,7 +95,7 @@ cask "monitorcontrol"
 cask "oracle-jdk"
 cask "sfdx"
 mas "Annotate", id: 918207447
-mas "DevUtilsAppStore", id: 1533756032
+mas "DevUtils", id: 1533756032
 mas "Dropover", id: 1355679052
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
