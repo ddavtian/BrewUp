@@ -93,6 +93,7 @@ cask "font-hack-nerd-font"
 cask "mockoon"
 cask "monitorcontrol"
 cask "oracle-jdk"
+cask "raycast"
 cask "sfdx"
 mas "DevUtils", id: 1533756032
 mas "Dropover", id: 1355679052
