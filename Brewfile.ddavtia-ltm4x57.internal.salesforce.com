@@ -88,21 +88,10 @@ brew "schappim/ocr/ocr"
 brew "snyk/tap/snyk"
 cask "1password-cli"
 cask "alt-tab"
+cask "betterdisplay"
 cask "dropzone"
 cask "font-hack-nerd-font"
 cask "mockoon"
-cask "monitorcontrol"
 cask "oracle-jdk"
 cask "raycast"
 cask "sfdx"
-mas "DevUtils", id: 1533756032
-mas "Dropover", id: 1355679052
-mas "Keynote", id: 409183694
-mas "LanScan", id: 472226235
-mas "Magnet", id: 441258766
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Patterns", id: 429449079
-mas "Speedtest", id: 1153157709
-mas "Unsplash Wallpapers", id: 1284863847
