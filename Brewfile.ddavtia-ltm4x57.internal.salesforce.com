@@ -96,7 +96,6 @@ cask "oracle-jdk"
 cask "raycast"
 cask "sfdx"
 mas "DevUtils", id: 1533756032
-mas "Dropover", id: 1355679052
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
 mas "Magnet", id: 441258766
