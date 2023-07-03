@@ -103,6 +103,7 @@ mas "Pages", id: 409201541
 mas "Patterns", id: 429449079
 mas "Speedtest", id: 1153157709
 mas "Unsplash Wallpapers", id: 1284863847
+mas "Xcode", id: 497799835
 vscode "dsznajder.es7-react-js-snippets"
 vscode "eamodio.gitlens"
 vscode "esbenp.prettier-vscode"
