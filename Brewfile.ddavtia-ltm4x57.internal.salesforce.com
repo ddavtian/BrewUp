@@ -40,7 +40,7 @@ brew "git-interactive-rebase-tool"
 brew "gnu-sed"
 brew "gnu-tar"
 brew "unbound"
-brew "gnupg", link: false
+brew "gnupg"
 brew "grpcurl"
 brew "helm"
 brew "htop"
