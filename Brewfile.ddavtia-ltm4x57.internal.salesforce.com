@@ -67,6 +67,7 @@ brew "python-yq"
 brew "rbenv"
 brew "rpm"
 brew "shtool"
+brew "sqlc"
 brew "telnet"
 brew "terraform"
 brew "tfenv", link: false
