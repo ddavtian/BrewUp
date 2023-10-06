@@ -100,6 +100,7 @@ cask "mockoon"
 cask "oracle-jdk"
 cask "raycast"
 cask "sfdx"
+cask "warp"
 mas "DevUtils", id: 1533756032
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
