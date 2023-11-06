@@ -97,17 +97,6 @@ cask "oracle-jdk"
 cask "raycast"
 cask "sfdx"
 cask "warp"
-mas "DevUtils", id: 1533756032
-mas "Keynote", id: 409183694
-mas "LanScan", id: 472226235
-mas "Magnet", id: 441258766
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Patterns", id: 429449079
-mas "Speedtest", id: 1153157709
-mas "Unsplash Wallpapers", id: 1284863847
-mas "Xcode", id: 497799835
 vscode "bmewburn.vscode-intelephense-client"
 vscode "dsznajder.es7-react-js-snippets"
 vscode "eamodio.gitlens"
@@ -162,6 +151,7 @@ vscode "vscjava.vscode-java-pack"
 vscode "vscjava.vscode-java-test"
 vscode "vscjava.vscode-maven"
 vscode "vscode-icons-team.vscode-icons"
+vscode "wesbos.theme-cobalt2"
 vscode "wholroyd.jinja"
 vscode "xdebug.php-debug"
 vscode "yzhang.markdown-all-in-one"
