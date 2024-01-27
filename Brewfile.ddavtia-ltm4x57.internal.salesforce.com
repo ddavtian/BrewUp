@@ -45,7 +45,7 @@ brew "git-lfs"
 brew "gnu-sed"
 brew "gnu-tar"
 brew "unbound"
-brew "gnupg"
+brew "gnupg", link: false
 brew "go"
 brew "golangci-lint"
 brew "grpcurl"
