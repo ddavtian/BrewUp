@@ -48,6 +48,7 @@ brew "unbound"
 brew "gnupg", link: false
 brew "go"
 brew "golangci-lint"
+brew "grex"
 brew "grpcurl"
 brew "helm"
 brew "htop"
