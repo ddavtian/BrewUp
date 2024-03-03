@@ -116,7 +116,6 @@ cask "warp"
 mas "DevUtils", id: 1533756032
 mas "Keynote", id: 409183694
 mas "LanScan", id: 472226235
-mas "Magnet", id: 441258766
 mas "MeetingBar", id: 1532419400
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
