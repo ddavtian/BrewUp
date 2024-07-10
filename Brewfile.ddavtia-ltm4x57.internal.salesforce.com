@@ -128,6 +128,7 @@ mas "LanScan", id: 472226235
 mas "MeetingBar", id: 1532419400
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
+mas "Okta Verify", id: 490179405
 mas "Pages", id: 409201541
 mas "Patterns", id: 429449079
 mas "Speedtest", id: 1153157709
