@@ -118,13 +118,11 @@ cask "font-hack-nerd-font"
 cask "hiddenbar"
 cask "mockoon"
 cask "obs"
-cask "oracle-jdk"
 cask "raycast"
 cask "rectangle"
 cask "sfdx"
 cask "warp"
 mas "DevUtils", id: 1533756032
-mas "LanScan", id: 472226235
 mas "MeetingBar", id: 1532419400
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Okta Verify", id: 490179405
