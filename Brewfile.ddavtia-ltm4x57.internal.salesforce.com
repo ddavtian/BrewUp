@@ -64,7 +64,6 @@ brew "libomp", link: true
 brew "pango"
 brew "librsvg"
 brew "mas"
-brew "openjdk"
 brew "maven"
 brew "nghttp2"
 brew "node"
