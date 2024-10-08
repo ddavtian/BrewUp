@@ -115,7 +115,6 @@ cask "warp"
 mas "DevUtils", id: 1533756032
 mas "MeetingBar", id: 1532419400
 mas "Microsoft Remote Desktop", id: 1295203466
-mas "Okta Verify", id: 490179405
 mas "Patterns", id: 429449079
 mas "Speedtest", id: 1153157709
 mas "Unsplash Wallpapers", id: 1284863847
