@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+brew "aws-iam-authenticator"
 brew "gh"
 brew "go"
 brew "jq"
